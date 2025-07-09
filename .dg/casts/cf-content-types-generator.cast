@@ -1,0 +1,12 @@
+{"version":2,"width":120,"height":30,"timestamp":1752050895,"duration":14.941227,"env":{"SHELL":"/bin/sh","TERM":"xterm-256color"}}
+[9.206748,"o","cf-content-types-generator"]
+[9.901782,"o"," "]
+[10.210959,"o","-"]
+[10.907117,"o","-"]
+[11.496214,"o","h"]
+[11.552362,"o","e"]
+[11.702176,"o","l"]
+[11.914726,"o","p"]
+[12.447205,"o","\r\n"]
+[12.448637,"o","/bin/sh: 1: cf-content-types-generator: not found\r\n"]
+[14.941227,"o","\r\n"]
