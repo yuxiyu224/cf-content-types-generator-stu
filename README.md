@@ -33,7 +33,7 @@ npm install cf-content-types-generator
 ```
 
 ## Usage
-
+![help](.dg/svg/showhelp-dark.svg)
 ```bash
 Contentful Content Types (TS Definitions) Generator
 
