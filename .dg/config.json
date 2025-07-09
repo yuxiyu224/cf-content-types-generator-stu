@@ -2,7 +2,7 @@
   "version": "0.1.0",
   "project": "cf-content-types-generator",
   "outputDir": ".dg",
-  "updated": "2025-07-09T08:54:03.694Z",
+  "updated": "2025-07-09T09:01:27.480Z",
   "casts": [
     {
       "name": "cf-content-types-generator",
@@ -18,13 +18,13 @@
     {
       "name": "showhelp",
       "title": "showhelp",
-      "created": "2025-07-09T08:53:08.756Z",
-      "updated": "2025-07-09T08:53:08.756Z",
+      "created": "2025-07-09T09:01:27.480Z",
+      "updated": "2025-07-09T09:01:27.480Z",
       "interactive": false,
       "validation": {
         "mode": "auto"
       },
-      "command": "node ./bin/run --version"
+      "command": "node ./bin/run --help"
     },
     {
       "name": "showhelp2",
